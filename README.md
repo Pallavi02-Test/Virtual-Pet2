@@ -1,7 +1,4 @@
 # Virtual-Pet-2
 
-https://github.com/AnikDey-exe/Virtual-Pet-2
-
-https://console.firebase.google.com/u/1/project/virtual-pet-1-e146f/database/virtual-pet-1-e146f/data
-
-https://anikdey-exe.github.io/Virtual-Pet-2/
+https://pallavi02-test.github.io/Virtual-Pet2/
+https://console.firebase.google.com/u/0/project/virtual-pet2-27f11/database/virtual-pet2-27f11/data
